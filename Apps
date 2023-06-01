@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eric's Website</title>
+</head>
+<body>
+<nav>
+  <li><a href="index.html"> Home </a>   </li>
+  <li><a href="page2.html"> Apps </a>    </li>
+</nav>
+  <center> 
+  <h2> Eric's Website
+  <h5><i> Nothing to see here. Just kidding there is much to see here.</i></h5>
+    
+    <div id='sky'>
+    <img id="sun" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvcHzjDwwCPBczeA8JUa8xSLAlPsMZV1Db51q8eFVoqXx7XA4NCWZQZOv0Tu5aU1zbXU:https://pbs.twimg.com/ext_tw_video_thumb/1282767374702112768/pu/img/uzTRh2E2vsKhR-zK.jpg:large&usqp=CAU" alt="">
+    </div>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/D1cwhXMr1FB1FFAZgnqM7N6oLov5s3KQUT0_AbAwqow/embed"></iframe>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/PZjAKTAnniZLKf9opUSmcP_7j5YHIP-Vhvnrqz5Y1aI/embed"></iframe>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/v49CDGyRwsvjO5P3-SvoHv9DVvhF42LgpEJ_jGI1luM/embed"></iframe>
+    
+    
+    
+    
+    
+<body>
+  
+</body>
+</html>
